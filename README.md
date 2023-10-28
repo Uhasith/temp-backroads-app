@@ -8,7 +8,7 @@
 - clone
 
 ```sh
-clone app : Use Clone Link of the Repo
+https://github.com/Uhasith/temp-backroads-app.git)https://github.com/Uhasith/temp-backroads-app.git
 ```
 
 - run dev server
