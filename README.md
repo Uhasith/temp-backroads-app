@@ -8,7 +8,7 @@
 - clone
 
 ```sh
-https://github.com/Uhasith/temp-backroads-app.git)https://github.com/Uhasith/temp-backroads-app.git
+https://github.com/Uhasith/temp-backroads-app.git
 ```
 
 - run dev server
